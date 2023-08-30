@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rharika838
-- 👀 I’m interested in Machine Learning, Deep Learning basically Artifical Intelligence and Data Science
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me, here's my LinkedIn profile: www.linkedin.com/in/ratna-harika-b5464572
+- 👋 Hi, I’m Ratna.
+- 👀 I’m interested in Machine Learning, Artifical Intelligence, Data Science and Software Development.
+- 🌱 I’m a Grad student at University of Florida.
+- 📫 Feel free to reach out to me! Here's my LinkedIn profile: www.linkedin.com/in/ratna-harika-b5464572
 
 <!---
 rharika838/rharika838 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
